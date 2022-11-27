@@ -1,0 +1,125 @@
+body {
+  text-align: center;
+  background-color: #858484;
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+#foo {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  color: #4b4b4b;
+}
+
+h1 {
+  font-size: 7rem;
+  font-family: 'Roboto Mono', monospace;
+  color: #ffffff;
+
+}
+
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  font-family: 'Maven Pro', sans-serif;
+  border: 1px solid #404B69;
+  font-size: 4rem;
+  line-height: 2;
+  font-weight: 600;
+  color: #000000;
+  border-radius: 50px;
+  display: inline-block;
+  width: 180px;
+  height: 150px;
+  text-align: center;
+  margin: 15px;
+  background-color: rgb(87, 87, 87);
+  transition-duration: 0.4s;
+  cursor: pointer;
+  box-shadow: 10px 5px 5px rgba(255, 255, 255, 0);
+}
+.drum:active {
+  transform: translateY(7px);
+}
+
+.w {
+  background-color: rgb(134, 134, 134);
+}
+.w:hover {
+  background-color: rgb(180, 112, 23);
+}
+
+
+
+.a {
+  background-color: rgb(134, 134, 134);
+}
+.a:hover {
+  background-color: rgb(172, 156, 20);
+}
+
+
+
+
+.s {
+  background-color: rgb(131, 131, 131);
+}
+.s:hover {
+  background-color: rgb(62, 150, 4);
+}
+
+
+
+
+.d {
+  background-color: rgb(153, 152, 152);
+}
+.d:hover {
+  background-color: rgb(0, 102, 88);
+}
+
+
+
+.j {
+  background-color: rgb(153, 153, 153);
+}
+.j:hover {
+  background-color: rgb(11, 45, 194);
+}
+
+
+
+.k {
+  background-color: rgb(141, 141, 141);
+}
+.k:hover {
+  background-color: rgb(182, 8, 153);
+}
+
+
+
+.l {
+  background-color: rgb(153, 153, 153);
+}
+.l:hover {
+  background-color: rgb(163, 10, 35);
+}
