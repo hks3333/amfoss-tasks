@@ -1,1 +1,1 @@
-Krypto Scrapper
+Krypto Scrapper using Rust
