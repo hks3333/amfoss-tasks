@@ -14,7 +14,7 @@
 | [Task-7]        | Go WASM               | Nearly Completed   |
 | [Task-8](https://github.com/hks3333/amfoss-tasks/tree/main/task-8)        | Internet Explorer     | Completed          |
 | [Task-9](https://github.com/hks3333/amfoss-tasks/tree/main/task-9)        | Krypto Scrapper       | Completed          |
-| [Task-10](https://github.com/hks3333/amfoss-tasks/tree/main/task-10)       | CS50                  |                    |
+| [Task-10](https://github.com/hks3333/amfoss-tasks/tree/main/task-10)       | CS50                  | Problem Set 1         |
 | [Task-11]       | Figma Ninja           | Not attempted      |
 | [Task-12]       | Bunny Heist           | Not attempted      |
 | [Task-13]       | Footfall Counter      | Not attempted      |
