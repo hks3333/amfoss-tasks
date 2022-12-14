@@ -19,4 +19,4 @@
 | Task-12       | Bunny Heist           | Not attempted      |
 | Task-13       | Footfall Counter      | Not attempted      |
 | Task-14       | Bandit                | Not attempted      |
-| [Task-15](https://github.com/hks3333/amfoss-tasks/tree/main/task-15)       | Project Euler         | Done 2 qs          |
+| [Task-15](https://github.com/hks3333/amfoss-tasks/tree/main/task-15)       | Project Euler         | Done 1 qs          |
