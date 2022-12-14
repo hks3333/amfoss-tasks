@@ -4,9 +4,10 @@
 
 | Tasks         | Description           | Status             |
 | ------------- |:---------------------:| ------------------:|
-| Task-1        | Install Ubuntu        | Completed          |
-| Task-2        | Starring repos        | Completed          |
-| Task-3        | Terminal Hunt         | Completed          |
+| Task-0        | Install Ubuntu        | Completed          |
+| Task-1        | Starring repos        | Completed          |
+| Task-2        | Terminal Hunt         | Completed          |
+| Task-3        | Programming           | Completed          |
 | Task-4        | CineBot               | Completed          | 
 | Task-5        | Find The Bug          | Couldn't complete  | 
 | Task-6        | Flame game            | Completed          |
