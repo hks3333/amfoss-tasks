@@ -9,9 +9,9 @@
 | [Task-2](https://github.com/hks3333/amfoss-tasks/tree/main/task-2)        | Terminal Hunt         | Completed          |
 | [Task-3](https://github.com/hks3333/amfoss-tasks/tree/main/task-3)        | Programming           | Completed          |
 | [Task-4](https://github.com/hks3333/amfoss-tasks/tree/main/task-4)        | CineBot               | Completed          | 
-| [Task-5](https://github.com/hks3333/amfoss-tasks/tree/main/task-1)        | Find The Bug          | Couldn't complete  | 
+| [Task-5]        | Find The Bug          | Couldn't complete  | 
 | [Task-6](https://github.com/hks3333/amfoss-tasks/tree/main/task-6)        | Flame game            | Completed          |
-| [Task-7](https://github.com/hks3333/amfoss-tasks/tree/main/task-1)        | Go WASM               | Nearly Completed   |
+| [Task-7]        | Go WASM               | Nearly Completed   |
 | [Task-8](https://github.com/hks3333/amfoss-tasks/tree/main/task-8)        | Internet Explorer     | Completed          |
 | [Task-9](https://github.com/hks3333/amfoss-tasks/tree/main/task-9)        | Krypto Scrapper       | Completed          |
 | [Task-10](https://github.com/hks3333/amfoss-tasks/tree/main/task-10)       | CS50                  |                    |
